@@ -1,0 +1,41 @@
+.c1, .c2, .c3, .c4, .c6{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid;
+    margin: 0.2em;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+}
+.c1{
+    background-color: #1E90FF;
+    border-radius: 44% 0%;
+}
+.c2{
+    background-color: #006400;
+    border-radius: 10% 20% 30% 40%;
+}
+.c3{
+    background-color: #66CDAA;
+}
+.c4{
+    background-color: #FA8072;
+    border-radius: 20% 40% 20% 30%;
+}
+.c5{
+    height: 10em;
+    width: 10em;
+    margin: 0.2em;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    color: white;
+}
+/*.c6{
+    background-color: #FF0000;
+    border-radius: 20% 40% 20% 30%;
+}*/
+section div:nth-child(18){
+    background-color: #FF0000;
+    border-radius: 20% 40% 20% 30%;
+}
